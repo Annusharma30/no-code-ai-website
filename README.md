@@ -7,7 +7,7 @@
 
 ## 🌟 Features
 - ✅ Real-time updates
-- ✅ Built using AI-powered tools (e.g., [Name of Tool like Wix])
+- ✅ Built using AI-powered tools (e.g., [Name of Tool like BOLT.NEW])
 - ✅ Responsive design
 - ✅ No-code, fast deployment
 
